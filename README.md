@@ -11,6 +11,5 @@ A simple and interactive Wordle game built with SwiftUI for iOS. The game lets u
 - **Character Matching**: If particular character is matched, it will be shown on the screen.
 
 
-## Demo Video
-Uploading Wordle Simulator.mp4…
+
 
